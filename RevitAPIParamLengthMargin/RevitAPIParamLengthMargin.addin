@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIParamLengthMargin.dll"</Assembly>
+		<AddInId>7C00EF2A-0065-4F3F-915E-9F3B9CD44BC0</AddInId>
+		<FullClassName>RevitAPIParamLengthMargin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание длины с запасом</Text>
+	</AddIn>
+</RevitAddIns>
